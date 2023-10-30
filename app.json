@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9fb866ee-8c93-454f-90e3-eeff4e0ba6f0"
+      }
+    },
+    "owner": "davudram"
   }
 }
